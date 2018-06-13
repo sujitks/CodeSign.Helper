@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>CodeSign.Helper</id>
+    <version>$version$</version>
+    <title>CodeSign.Helper</title>
+    <authors>Sujit Singh</authors>
+    <owners>Summus Technologies Solutions Ltd</owners>
+    <licenseUrl>https://github.com/sujitks/CodeSign.Helper/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/sujitks/CodeSign.Helper/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Codesign utility to automate code signing with hardware token based certificates </description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>CodeSign, Certificate, Digital signature, UIAutomation</tags>
+    <dependencies>
+      <dependency id="CommandLineParser" version="1.9.71" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\**\*.exe" target="\" />
+  </files>
+</package>
