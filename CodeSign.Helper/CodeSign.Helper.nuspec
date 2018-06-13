@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>CodeSign.Helper</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>CodeSign.Helper</title>
     <authors>Sujit Singh</authors>
     <owners>Summus Technologies Solutions Ltd</owners>
@@ -13,11 +13,12 @@
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>CodeSign, Certificate, Digital signature, UIAutomation</tags>
-    <dependencies>
+    <!--<dependencies>
       <dependency id="CommandLineParser" version="1.9.71" />
-    </dependencies>
+    </dependencies>-->
   </metadata>
   <files>
     <file src="bin\**\*.exe" target="\" />
+    <file src="bin\**\*.dll" target="\" />
   </files>
 </package>
