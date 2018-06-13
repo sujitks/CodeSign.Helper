@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>CodeSign.Helper</id>
-    <version>$version$</version>
+    <version>1.0.0</version>
     <title>CodeSign.Helper</title>
     <authors>Sujit Singh</authors>
     <owners>Summus Technologies Solutions Ltd</owners>
