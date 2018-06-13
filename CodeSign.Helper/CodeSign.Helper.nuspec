@@ -17,4 +17,7 @@
       <dependency id="CommandLineParser" version="1.9.71" />
     </dependencies>
   </metadata>
+  <files>
+    <file src="bin\$configuration$\$id$." target="\" />
+  </files>
 </package>
